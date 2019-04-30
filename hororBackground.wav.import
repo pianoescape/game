@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hororBackground.wav-8bc60a11f3b8261e0e42824c91a1d3be.sample"
+
+[deps]
+
+source_file="res://hororBackground.wav"
+dest_files=[ "res://.import/hororBackground.wav-8bc60a11f3b8261e0e42824c91a1d3be.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
